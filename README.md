@@ -18,3 +18,6 @@ Its Docker Container setup for IssueTracker Django project. IssueTracker website
   If private IP is available, update that ip in setting.py allowed host section.
   
   Thats it, like this you can containerize any application and enable its networking.
+  
+  # REF: 
+  https://hub.docker.com/repository/docker/prajinkyaatdocker/issue-tracker-in-docker/general
